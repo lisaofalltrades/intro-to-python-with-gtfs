@@ -13,6 +13,6 @@ The syllabus below outlines the concepts you will learn in this course. Click on
 
 While we don't expect you to complete all the advanced versions of the labs, we expect you to give it a try. and challenge yourself!
 
-| Unit| Concepts| Lab| Exercises|
-| ----|-------- | --- |------ | 
-| Unit 0 | <li>installing Python</li> <li>installing VS Code</li> <li>intro to the terminal</li>|||
+| Unit| Concepts|
+| ----|-------- |
+| [Unit 0](/labs/0_install_and_command-line.md) | <li>installing Python</li> <li>installing VS Code</li> <li>intro to the terminal</li>|
