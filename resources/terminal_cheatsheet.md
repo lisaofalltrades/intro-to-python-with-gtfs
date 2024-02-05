@@ -15,6 +15,7 @@ The following commands will work in Mac and Linux terminals as well as Windows P
 | Create a directory        | `mkdir <directory_name>`      |
 | Delete a directory        | `rm -r <directory_name>`      |
 | Move a file or folder     | `mv <filename> <destination>` |
+| Create a new file         | `touch <filename>`            |
 | Cancel current operation  | `ctrl + C` / `Command + C`    |
 
 ## Python in the Terminal
