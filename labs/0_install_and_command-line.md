@@ -2,11 +2,11 @@
 
 ## Install
 1. Download the [latest version of Python](https://www.python.org/downloads/).
-2. Install an editor. The devs use [VS Code](https://code.visualstudio.com/download) but [PyCharm](https://www.jetbrains.com/pycharm/download/) is popular amongst Python developers.
+2. Install an editor. [PyCharm](https://www.jetbrains.com/pycharm/download/) is popular amongst Python developers.
 
 ## Getting Comfortable
 
-1. On your Desktop, search for Terminal (Mac) or Command Line (Windows), and open the pplication. You should see your username & your laptop:
+1. On your Desktop, search for Terminal (Mac) or Command Line (Windows), and open the application. You should see your username & your laptop:
 ```
 lisanguyen@lisan-macbook-pro-us ~ %
 ```
