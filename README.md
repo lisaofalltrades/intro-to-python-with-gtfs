@@ -11,7 +11,7 @@ The syllabus below outlines the concepts you will learn in this course. Click on
 
 ## Syllabus Overview
 
-While we don't expect you to complete all the advanced versions of the labs, we expect you to give it a try. and challenge yourself!
+While we don't expect you to complete all the advanced versions of the labs, we expect you to give it a try and challenge yourself!
 
 | Unit| Concepts|
 | ----|-------- |
