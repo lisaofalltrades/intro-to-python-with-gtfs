@@ -13,8 +13,8 @@ The syllabus below outlines the concepts you will learn in this course. Click on
 
 While we don't expect you to complete all the advanced versions of the labs, we expect you to give it a try and challenge yourself!
 
-| Unit                                           | Concepts                                                                                                                |
-|------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
-| [Unit 00](labs/00_installing-python-pycharm.md) | <li>installing Python</li> <li>installing PyCharm</li>                                                                  |
-| [Unit 01](labs/01_command-line.md) | <li>intro to the terminal / command line</li>                                                                           |
-| [Unit 02](/labs/0_install_and_command-line.md) | <li>comments</li>  <li>strings</li> <li>strings</li> <li>print()</li> <li>escape characters</li><li>string methods</li> |
+| Unit                                              | Concepts                                                                                                                |
+|---------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
+| [Unit 00](units/00_installing-python-pycharm.md) | <li>installing Python</li> <li>installing PyCharm</li>                                                                  |
+| [Unit 01](units/01_command-line.md)              | <li>intro to the terminal / command line</li>                                                                           |
+| [Unit 02](units/02.md)   | <li>comments</li>  <li>strings</li> <li>strings</li> <li>print()</li> <li>escape characters</li><li>string methods</li> |
